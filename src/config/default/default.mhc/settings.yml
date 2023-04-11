@@ -1,0 +1,14 @@
+configName: default
+folderName: 115_bl_mcf_ledsw_uart1_9600_delay
+format_version: v1.0
+frameworkPath: ..\..\..\..\..\..\Microchip\Harmony3
+processor: PIC32MK1024MCF064
+projectName: 115_bl_mcf_ledsw_uart1_9600_delay
+settings:
+  PackageFilter: bootloader;bootloader_apps_can;bootloader_apps_ethernet;bootloader_apps_i2c;bootloader_apps_pic32cm_le_ls;bootloader_apps_sdcard;bootloader_apps_serial_memory;bootloader_apps_spi;bootloader_apps_uart;bootloader_apps_usb;bsp;core;crypto;crypto_apps_encrypt_decrypt;crypto_apps_large_hash;crypto_apps_speed_test;csp;csp_apps_pic32cm_jh00_jh01;csp_apps_pic32cm_le_ls;csp_apps_pic32cm_mc00;csp_apps_pic32mk;csp_apps_pic32mm;csp_apps_pic32mx;csp_apps_pic32mz_da;csp_apps_pic32mz_ef;csp_apps_pic32mz_w1;csp_apps_sam_9x60;csp_apps_sam_9x7;csp_apps_sam_a5d2;csp_apps_sam_a7g5;csp_apps_sam_c20_c21;csp_apps_sam_d10;csp_apps_sam_d11;csp_apps_sam_d20;csp_apps_sam_d21_da1;csp_apps_sam_d5x_e5x;csp_apps_sam_e70_s70_v70_v71;csp_apps_sam_g55;csp_apps_sam_ha1;csp_apps_sam_l10_l11;csp_apps_sam_l21;csp_apps_sam_l22;csp_apps_sam_rh707;csp_apps_sam_rh71;dev_packs;harmony-services;net;quick_docs;usb
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\PIC32MK-MC_DFP\1.11.151\atdf\PIC32MK1024MCF064.atdf
